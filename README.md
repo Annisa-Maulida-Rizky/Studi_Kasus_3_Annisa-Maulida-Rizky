@@ -3,7 +3,8 @@
 Nama : Annisa Maulida Rizky<br>
 NIM : 2609116061
 
-Hasil Output Program
+Hasil Output Program:
+
 <img width="561" height="384" alt="Screenshot 2026-09-08 205752" src="https://github.com/user-attachments/assets/dedfc3de-f1dd-439c-927d-d68f0d9c51f0" />
 
 Penjelasan Kode Program
